@@ -1,0 +1,7 @@
+tom	hello	hadoop	cat
+cat	hive	tom
+hadoop	tom	world	hive
+hello	tom	world	mr	hive
+world	hello	hadoop	hive
+hive	cat	hadoop	hello	world	mr
+mr	hive	hello
